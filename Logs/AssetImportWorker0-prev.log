@@ -1,0 +1,164 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'ru' Physical Memory: 8143 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Users\Professional\Documents\UnityEditors\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Professional/Documents/UnityProjects/Mania Buttle Royale
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61331
+Successfully changed project path to: C:/Users/Professional/Documents/UnityProjects/Mania Buttle Royale
+C:/Users/Professional/Documents/UnityProjects/Mania Buttle Royale
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 35.05 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path C:/Users/Professional/Documents/UnityEditors/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Professional/Documents/UnityProjects/Mania Buttle Royale/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 580 Series (ID=0x67df)
+    Vendor:   
+    VRAM:     8171 MB
+    Driver:   27.20.14501.28009
+Shader 'Hidden/WC/Splatmap/Standard-AddPass': fallback shader 'Hidden/WC/Splatmap/Diffuse-AddPass' not found
+Initialize mono
+Mono path[0] = 'C:/Users/Professional/Documents/UnityEditors/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Users/Professional/Documents/UnityEditors/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Users/Professional/Documents/UnityEditors/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56356
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Users/Professional/Documents/UnityEditors/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002186 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 31.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.122 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002452 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.910 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Hidden/WC/Splatmap/Standard-AddPass': fallback shader 'Hidden/WC/Splatmap/Diffuse-AddPass' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1338 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.5 MB.
+System memory in use after: 82.8 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1790.
+Total: 2.488600 ms (FindLiveObjects: 0.236000 ms CreateObjectMapping: 0.053600 ms MarkObjects: 1.583100 ms  DeleteObjects: 0.614700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts
+  artifactKey: Guid(a724ba54ff6440b43adebb273a6557c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(a724ba54ff6440b43adebb273a6557c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67375fa8ebe3273086578ed4ebc1039d') in 0.009598 seconds
+  Import took 0.011736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.872070 seconds.
+  path: Assets/Scripts/NewBehaviourScript.cs
+  artifactKey: Guid(6e766569a65d44f43867f60632f89ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NewBehaviourScript.cs using Guid(6e766569a65d44f43867f60632f89ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37e65b1c4361e2af330698a9bfec0d3e') in 0.054736 seconds
+  Import took 0.056872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.547963 seconds.
+  path: Assets/Scripts/PlayerController.cs
+  artifactKey: Guid(6ede15346bd94304d8707f7405979b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerController.cs using Guid(6ede15346bd94304d8707f7405979b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3b271ce67d04a1f92c91e51528c34fa') in 0.007207 seconds
+  Import took 0.009923 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002318 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.842 seconds
+Platform modules already initialized, skipping
+Shader 'Hidden/WC/Splatmap/Standard-AddPass': fallback shader 'Hidden/WC/Splatmap/Diffuse-AddPass' not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1308 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 81.9 MB.
+System memory in use after: 81.2 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1793.
+Total: 2.414900 ms (FindLiveObjects: 0.174900 ms CreateObjectMapping: 0.037200 ms MarkObjects: 1.543100 ms  DeleteObjects: 0.658000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 115.076344 seconds.
+  path: Assets/Scripts/PlayerController.cs
+  artifactKey: Guid(6ede15346bd94304d8707f7405979b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerController.cs using Guid(6ede15346bd94304d8707f7405979b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ed8dd67e7e60209b3da9a951a341304') in 0.005569 seconds
+  Import took 0.008595 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002369 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.847 seconds
+Platform modules already initialized, skipping
+Shader 'Hidden/WC/Splatmap/Standard-AddPass': fallback shader 'Hidden/WC/Splatmap/Diffuse-AddPass' not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1307 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.6 MB.
+System memory in use after: 81.9 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1795.
+Total: 2.554200 ms (FindLiveObjects: 0.241700 ms CreateObjectMapping: 0.037600 ms MarkObjects: 1.583300 ms  DeleteObjects: 0.689800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.120870 seconds.
+  path: Assets/Scripts/PlayerController.cs
+  artifactKey: Guid(6ede15346bd94304d8707f7405979b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerController.cs using Guid(6ede15346bd94304d8707f7405979b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ac42f9788c0b667bfb1c5eaf5ab8f8c') in 0.005234 seconds
+  Import took 0.008061 seconds .
+
